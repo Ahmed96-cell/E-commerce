@@ -19,7 +19,8 @@ const Footer = () => {
                         className="d-flex justify-content-end align-items-center ">
                         <div className="d-flex pt-3 mx-2">
                             <img width="20px" height="20px" src={phone} alt="" />
-                            <p className="footer-phone">0122455346356</p>
+                           <p className="footer-phone">01287059910</p>
+                           <p className="footer-phone">01065971512</p>
                         </div>
                         <div style={{ cursor: "pointer" }}>
                             <img width="20px" height="20px" src={facebook} alt="" />
